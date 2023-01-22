@@ -14,5 +14,6 @@
 
   <export>
     <build_type>ament_cmake</build_type>
+    <gazebo_ros gazebo_model_path = "/home/dev_ws/install/my_bot/share/>
   </export>
 </package>
